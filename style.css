@@ -1,0 +1,47 @@
+/*{
+    background: #111;
+}*/
+html {
+    font-family: 'Poppins', sans-serif;
+    padding: 60px 50px;
+    background: #000000;
+}
+
+header{
+    width: 275px;
+    height: 760px;
+    padding: 60px 30px 30px;
+    background: #1e1e1f;
+    border-radius: 30px;
+}
+img{
+    width: 150px;
+    height: 147px;
+    border-radius: 10px;
+}
+h1, h2, h3 {
+    color: #fafafa;
+}
+.info h1{
+    font-size: 26px;
+    font-weight: 500;
+    margin-bottom: 15px;
+    text-align: center;
+}
+p {
+    color: #ffffff;
+}
+.info .title{
+    padding: 5px 18px;
+    text-align: center;
+    background: #2B2B2C;
+    border-radius: 10px;
+}
+
+main {
+    width: 900px;
+    height: 1290px;
+    padding: 30px;
+    background: #1e1e1f;
+    border-radius: 30px;
+}
